@@ -9,8 +9,7 @@ This document lists various topics and skills I've learned from watching YouTube
 ## Bitwise Operator
 - [Open Code](basic-js/bitwise_operator.js)
 - **JavaScript**: Gained knowledge on DOM manipulation, events, and ES6 features.
-- **React.js**: Understood component-based architecture and state management.
-- **Responsive Design**: Techniques for making web pages look good on all devices.
+
 
 ## Backend Development
 - **Node.js**: Learned how to build server-side applications using JavaScript.

@@ -62,7 +62,7 @@
 
 // XOR operator
 
-console.log(7 ^ 6); //answer = 3
+// console.log(7 ^ 6); //answer = 1
 
 /**
  * in XOR ^ operator, if both are true then it's 0. If one is true then it is 1. Both false is both 0
@@ -74,7 +74,29 @@ console.log(7 ^ 6); //answer = 3
     _________
      0 0 0 1    => the answer is 1
 
-     So we get 7 as result when (7 ^ 6)
+     So we get 1 as result when (7 ^ 6)
 
 
  */
+
+    
+// ~ NOT operator
+
+// console.log(~1);
+// UNDERSTOOD NOTHING OF IT
+/**
+ * ~ operator makes the value opposite.
+ * It will convert 0 into 1 and 1 into 0
+ 
+
+ */
+
+// Left SHIFT OPERATOR >>
+// console.log(2 >> 1); // returns 1
+
+/** 
+ * this will push 2 left once. Like 2 is 0010, adding extra zero in left side means 0001.
+ (4 >> 1) => 2. 4 is 0100, pushing it left side is 0010 which is 2
+ **/
+
+ // SAME APPLIES FOR RIGHT SHIRT OPERATOR <<
