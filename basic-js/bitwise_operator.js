@@ -10,7 +10,9 @@
 11011
  * **/
 
-console.log( 1 & 2) // answer = 0
+// & operator
+
+// console.log( 1 & 2) // answer = 0
 /**  
  * comparing 1 and 2 in binary
  
@@ -25,7 +27,7 @@ console.log( 1 & 2) // answer = 0
 
 */
 
-console.log (7 & 6)
+// console.log (7 & 6) // answer is 6
 /**  
  * comparing 7 and 6 in binary
  
@@ -39,3 +41,40 @@ console.log (7 & 6)
      So we get 6 as result when (7 & 6)
 
 */
+
+// OR | operator
+
+// console.log(7 | 6) // 7
+/**  
+ * comparing 7 and 6 in binary
+ * In OR operator, if at least one have true, it will return true
+ 
+     0 1 1 1 
+     0 1 1 0
+    _________
+     F T T T
+    _________
+     0 1 1 1    => the answer is 7
+
+     So we get 7 as result when (7 | 6)
+
+*/
+
+// XOR operator
+
+console.log(7 ^ 6); //answer = 3
+
+/**
+ * in XOR ^ operator, if both are true then it's 0. If one is true then it is 1. Both false is both 0
+    
+     0 1 1 1 
+     0 1 1 0
+    _________
+     F F F T
+    _________
+     0 0 0 1    => the answer is 1
+
+     So we get 7 as result when (7 ^ 6)
+
+
+ */
