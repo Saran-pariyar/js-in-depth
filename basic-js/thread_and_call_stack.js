@@ -31,6 +31,10 @@
     Also it creates "this" object (it's same as window.) and bind it to global object (i.e window object)
 
     setup memory heap for storing variables and entire function reference. Those func and var set to "undefined"
+    (Entire code is in memory before it's executed, and that's what hoisting means)
+
+    (let and const are also hoisted but they are not accessible in global scope) It's stores in place called "Temporal dead zone"
+   
 
  
  * 2. Execution Phase
