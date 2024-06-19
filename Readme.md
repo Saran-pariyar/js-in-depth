@@ -13,6 +13,7 @@ This document lists various topics and skills I've learned from watching YouTube
 
 ## Thread & Call Stack
 - [Open Code](basic-js/thread_and_call_stack.js)
+- **Execution Context Image: **  [First Image](asset_images/first_execution_context.png) [Second Image](asset_images/second_execution_context.png)
 
 
 
