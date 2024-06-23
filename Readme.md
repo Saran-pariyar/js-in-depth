@@ -16,7 +16,7 @@ This document lists various topics and skills I've learned from watching YouTube
 
 ## Thread & Call Stack and execution context
 - [Open Code](basic-js/thread_and_call_stack.js)
-- **Execution Context Image:**  [First Image](asset_images/first_execution_context.png) [Second Image](asset_images/second_execution_context.png)
+- **Execution Context Image:**  [First Image](asset_images/first_execution_context.png) [Second Image](asset_images/second_execution_context.png) [Third Image](asset_images/third_execution_context.png)
 
 ## Task Queue & Event Loop
 - **Task Queue & Event Loop Image** [Task Queue Image](asset_images/task_queue_event_loop.png)

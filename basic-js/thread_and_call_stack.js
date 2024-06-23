@@ -42,4 +42,6 @@
     Creates new execution context again for each function call. (see in second image)
 
  
+NOTE: When we do this let newFunc = oldFunc(), new execution context is created for this, then what oldFunc() will return, that value will be assigned to newFunc(). And that's how js treat func like variable if created using: let func(). The whole execution of that func will be deleted after it returns a value. See third image.
+
  */
