@@ -9,6 +9,7 @@ This document lists various topics and skills I've learned from watching YouTube
 4. [Memory Storage](#memory-storage)
 5. [Scope & Lexical Environment](#scope-and-lexical-environment)
 6. [let & const](#let-and-const)
+7. [Closures](#closures)
 
 
 
@@ -33,5 +34,8 @@ This document lists various topics and skills I've learned from watching YouTube
 ## Let and Const
 - [Open Code](basic-js/let_&_const.js)
 - **How shadowing is not allowed in let & const** [Image](asset_images/shadowing.png)
+
+## Closures
+- [Open Code](basic-js/closures.js)
 
 
