@@ -8,6 +8,7 @@ This document lists various topics and skills I've learned from watching YouTube
 3. [Task Queue & Event Loop](#task-queue-and-event-loop)
 4. [Memory Storage](#memory-storage)
 5. [Scope & Lexical Environment](#scope-and-lexical-environment)
+6. [let & const](#let-and-const)
 
 
 
@@ -28,5 +29,9 @@ This document lists various topics and skills I've learned from watching YouTube
 
 ## Scope and Lexical Environment
 - [Open Code](basic-js/scope_&_lexical_environment.js)
+
+## Let and Const
+- [Open Code](basic-js/let_&_const.js)
+- **How shadowing is not allowed in let & const** [Image](asset_images/shadowing.png)
 
 
