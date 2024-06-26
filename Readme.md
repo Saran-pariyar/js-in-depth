@@ -10,6 +10,7 @@ This document lists various topics and skills I've learned from watching YouTube
 5. [Scope & Lexical Environment](#scope-and-lexical-environment)
 6. [let & const](#let-and-const)
 7. [Closures](#closures)
+8. [First Class Functions](#first-class-functions)
 
 
 
@@ -37,5 +38,8 @@ This document lists various topics and skills I've learned from watching YouTube
 
 ## Closures
 - [Open Code](basic-js/closures.js)
+
+## First Class Functions
+- [Open Code](basic-js/first_class_functions.js)
 
 
