@@ -11,6 +11,7 @@ This document lists various topics and skills I've learned from watching YouTube
 6. [let & const](#let-and-const)
 7. [Closures](#closures)
 8. [First Class Functions](#first-class-functions)
+9. [Asynchronous and Event Loop](#asynchronous-and-event-loop)
 
 
 
@@ -41,5 +42,9 @@ This document lists various topics and skills I've learned from watching YouTube
 
 ## First Class Functions
 - [Open Code](basic-js/first_class_functions.js)
+
+## Asynchronous and Event Loop
+- [Open Code](basic-js/async_and_event_loop.js)
+- **Images** [Web APIs Image](asset_images/web_apis.png)
 
 
