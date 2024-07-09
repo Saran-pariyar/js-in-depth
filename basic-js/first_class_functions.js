@@ -16,3 +16,5 @@ Arguments: When func call, we pass value to variable. That is argument.
 /**
  First class function: Function which is treated like a variable and we can pass it as an argument or return it is called first class function
  */
+
+// Higher order func =>  Func that takes another func as argument(callback func)  

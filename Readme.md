@@ -12,6 +12,7 @@ This document lists various topics and skills I've learned from watching YouTube
 7. [Closures](#closures)
 8. [First Class Functions](#first-class-functions)
 9. [Asynchronous and Event Loop](#asynchronous-and-event-loop)
+10. [map, filter & reduce](#map-filter-and-reduce)
 
 
 
@@ -47,4 +48,5 @@ This document lists various topics and skills I've learned from watching YouTube
 - [Open Code](basic-js/async_and_event_loop.js)
 - **Images** [Web APIs Image](asset_images/web_apis.png)
 
-
+## map filter and reduce
+- [Open Code](basic-js/map_filter_reduce.js)
