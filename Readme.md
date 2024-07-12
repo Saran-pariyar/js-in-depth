@@ -13,6 +13,7 @@ This document lists various topics and skills I've learned from watching YouTube
 8. [First Class Functions](#first-class-functions)
 9. [Asynchronous and Event Loop](#asynchronous-and-event-loop)
 10. [map, filter & reduce](#map-filter-and-reduce)
+11. [Prototype](#prototype)
 
 
 
@@ -50,3 +51,6 @@ This document lists various topics and skills I've learned from watching YouTube
 
 ## map filter and reduce
 - [Open Code](basic-js/map_filter_reduce.js)
+
+## Prototype
+- [Open code](basic-js/prototype.js)

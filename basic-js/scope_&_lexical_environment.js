@@ -17,7 +17,7 @@ function a(){
     function c(){
         console.log(b); 
         /**
-         Now JS will try to find a in lexical environment of c, if not found, then it will search in a(), still not found then it will search in global scope
+         Now JS will try to find b in lexical environment of c, if not found, then it will search in a(), still not found then it will search in global scope
 
          JS will look for var/func in local scope, if not found, it keeps on searching the lexical environment of its parent till it's found. THAT IS CALLED SCOPE CHAIN
          */
